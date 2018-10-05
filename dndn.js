@@ -20,7 +20,7 @@ console.log("Welcome Again !");
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/USnR9vc
+https://discord.gg/VwFhKa
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -46,11 +46,11 @@ client.on("guildMemberAdd", member => {
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/USnR9vc
+https://discord.gg/VwFhKa
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
-client.login('NDkzMDQ3MzA1OTU2NDkxMjY2.Dpe-yg.23X3PIL1S9YEZDeH8xU40wUsY34');
+client.login('NDkzMDQ3MzA1OTU2NDkxMjY2.DpiXZA.Zja-ZaGp3utHoIQpabm5OHjTjFM');
